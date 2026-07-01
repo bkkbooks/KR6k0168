@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR6k0168/v1
+canonical_location: https://kanripo.org/bkk/KR6k0168/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四分律行事鈔科
+  identifiers:
+    alt_id:
+    - X43n0738
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X43/X43n0738.xml
+    old_id: X43n0738
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0168_000.yaml, hash: 'sha256:eb5763f902469f854321717b0fa65371bcd49ca1a3c1a6ce9d9a1cdc57156c36'}
+  - {seq: 2, filename: KR6k0168_002.yaml, hash: 'sha256:e7a92c91cc38b7b7389d7081e9624f373cfe1f46e243428c69699c2c8fae9c48'}
+  - {seq: 3, filename: KR6k0168_003.yaml, hash: 'sha256:12f46c4ba1cc58d41e26c1feebdda7542768450ca381d335f1f361e710a05480'}
+  - {seq: 4, filename: KR6k0168_004.yaml, hash: 'sha256:90b3a69e1ba6adaa0d43813ee9f1c78da3b1374bb8c199391b9524884b413aab'}
+  - {seq: 5, filename: KR6k0168_005.yaml, hash: 'sha256:fe7ed71b1a6587a266d1ef8f138b8e30411bb39efdec590041c6a9c121e4d57d'}
+  - {seq: 6, filename: KR6k0168_006.yaml, hash: 'sha256:0cde49fb0a7068e81e1565667585c493ea6e160eff25c61535f821e96390aa43'}
+  - {seq: 7, filename: KR6k0168_007.yaml, hash: 'sha256:eeb736ac0f8cc4ea9cfa3d16f73d4293b75b64558ab5129c99d6ab1a0de1e1bf'}
+  - {seq: 8, filename: KR6k0168_008.yaml, hash: 'sha256:02622f1d4453f97e36efa3c317ff35fc40de1795d680b274bec240a0f4fac65a'}
+  - {seq: 9, filename: KR6k0168_009.yaml, hash: 'sha256:8d1afd9d336f0eaa66ab593cb4173b1030b71e294a03d5769000b6d4ab5d0540'}
+  - {seq: 10, filename: KR6k0168_010.yaml, hash: 'sha256:d4adbc410c2792eb0355faf64ef8c73c9054daabeecfeae8a1196336669ab37f'}
+  - {seq: 11, filename: KR6k0168_011.yaml, hash: 'sha256:4d52f7c5704d8e7b839c8a0c8170c6561c1d6fc87d777bf818f0ac58ab1c3c46'}
+  - {seq: 12, filename: KR6k0168_012.yaml, hash: 'sha256:68c3356842518a18427f92139694ffc720608ef6003252b6c5611a67a9c18552'}
+  - {seq: 13, filename: KR6k0168_013.yaml, hash: 'sha256:2449caf2c271841046690e332e46737dac7882e26209fed17f36350743b17688'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6k0168_002.markers.yaml, hash: 'sha256:bf092ef521f8ea7d92ba972c728116a1c7ec8c4c58748d5fdbcae553ea388e97'}
+  - {seq: 3, role: markers, filename: assets/KR6k0168_003.markers.yaml, hash: 'sha256:751f4296d1ad3c326959aa7160acf22424cdda6c6c2d53d35345aeca520598de'}
+  - {seq: 4, role: markers, filename: assets/KR6k0168_004.markers.yaml, hash: 'sha256:03c3d95cc8c16a6e98346c16f2a0255ab0cae01c600cb6e4d44df7043d04878d'}
+  - {seq: 5, role: markers, filename: assets/KR6k0168_005.markers.yaml, hash: 'sha256:dbbeacdda273f64909c8feefe442295df3c32539ce8f4909959db06653214e13'}
+  - {seq: 6, role: markers, filename: assets/KR6k0168_006.markers.yaml, hash: 'sha256:24224f15285e916ce0cb4ef29a9173cbe685338c5a301f95371249c95182d211'}
+  - {seq: 7, role: markers, filename: assets/KR6k0168_007.markers.yaml, hash: 'sha256:5196f28bc790be99bcc84ec193207c3efe49e9922fa2ebfe1ebdff2a1aa31a2c'}
+  - {seq: 8, role: markers, filename: assets/KR6k0168_008.markers.yaml, hash: 'sha256:eb819092b3cacf9ccba79e3ea982546c6aea47cb547835c78a8b2946e40dc5ff'}
+  - {seq: 9, role: markers, filename: assets/KR6k0168_009.markers.yaml, hash: 'sha256:5edf1ff6030f99edc23e983b48ee632f92ebe89eca839772a67657a5c580e5e3'}
+  - {seq: 10, role: markers, filename: assets/KR6k0168_010.markers.yaml, hash: 'sha256:83f15bf26759a383420d544015092f657a3f89faad3217e22b6b19db59f01f73'}
+  - {seq: 11, role: markers, filename: assets/KR6k0168_011.markers.yaml, hash: 'sha256:a41687ec9ad9eb0d10e894622a53c6b42ed4481ebfd75dc1bab7fe707c945344'}
+  - {seq: 12, role: markers, filename: assets/KR6k0168_012.markers.yaml, hash: 'sha256:1b3345869d52d31d7943bb8f96b86145f72d96d788e08e91906ad82ad8810291'}
+  - {seq: 13, role: markers, filename: assets/KR6k0168_013.markers.yaml, hash: 'sha256:bbc6fa518efe7024378c7fc4825c8f55ee426ef526ff0d838d03f0053afe48fb'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6k0168_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 4582
+  label: 釋四分律行事鈔科卷上之一
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0168_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 2459
+  label: 釋四分律行事鈔科卷上之二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0168_X_1c-juan-start
+    span:
+    - body
+    - 0
+    - 2606
+  label: 釋四分律行事鈔科卷上之三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0168_X_1d-juan-start
+    span:
+    - body
+    - 0
+    - 3238
+  label: 釋四分律行事鈔科卷上之四
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0168_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 4112
+  label: 釋四分律行事鈔科卷中之一
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0168_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 3646
+  label: 釋四分律行事鈔科卷中之二
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0168_X_2c-juan-start
+    span:
+    - body
+    - 0
+    - 5106
+  label: 釋四分律行事鈔科卷中之三
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0168_X_2d-juan-start
+    span:
+    - body
+    - 0
+    - 3974
+  label: 釋四分律行事卷鈔科中之四
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0168_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 3292
+  label: 釋四分律行事鈔科卷下之一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6k0168_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 2303
+  label: 釋四分律行事鈔科卷下之二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6k0168_X_3c-juan-start
+    span:
+    - body
+    - 0
+    - 2554
+  label: 釋四分律行事鈔科卷下之三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6k0168_X_3d-juan-start
+    span:
+    - body
+    - 0
+    - 2810
+  label: 釋四分律行事鈔科卷下之四
+  type: juan
+  level: 1
+hash: sha256:68f08ff97fe7668f95e9708ea91548086c62207ecb0842ba6f0b92c14acd221f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
